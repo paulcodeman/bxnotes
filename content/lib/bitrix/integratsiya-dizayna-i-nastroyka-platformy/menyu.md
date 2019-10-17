@@ -1,5 +1,5 @@
 ---
-title: Меню
+title: Меню1
 seoDescription: Создание динамического меню в 1С-Битрикс.
 seoKeywords: битрикс, меню, menu_ext.php, bitrix:menu.sections
 date: 2018-01-04 04:00:00
